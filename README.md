@@ -1,5 +1,5 @@
 # Admission_Prediction_ML_Project
-Predict whether a student will be admitted to a university or not, using ML models.
+Predict whether a student will be admitted to a university or not, using ML models. (Maximum Accuracy achieved: 92.05%)
 
 The dataset contains several parameters which are considered important during the application for Masters Programs.
 The parameters included:
